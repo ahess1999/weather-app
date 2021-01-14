@@ -1,3 +1,5 @@
-# Weather App created using React and JavaScript
+# Weather App 
+
+Created using React and JavaScript
 
 Currently under-construction!
